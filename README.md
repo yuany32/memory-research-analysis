@@ -26,7 +26,7 @@ There are _2 types_ of questions: **fixed answers questions** and **decision poi
 ## The Data
 
 ### Data sample
-A sample dataframe that shows recorded data: [(click here for all datasets)](https://github.com/yuany32/memory-research-analysis/tree/master/subj_data)
+A sample dataframe that shows recorded data: 
 
 ![sample dataframe](dataframe_sample.png)
 
